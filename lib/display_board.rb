@@ -5,7 +5,7 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
  
   
 #board output
-puts " #{board[1]} | #{board[2]} | #{board[3]} "
+puts " #{board[0]} | #{board[2]} | #{board[3]} "
 puts "-----------"
 puts " #{board[4]} | #{board[5]} | #{board[6]} "
 puts "-----------"
